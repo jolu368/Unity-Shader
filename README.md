@@ -23,5 +23,6 @@
 <br>
 #### FishEye: 介紹如何制作魚眼，應用在 2D Bottle UI 內水流動，使用 ASE 1.5.6 串接
 文章教學: https://jojolu368.blogspot.com/2019/09/glass-bottle-liquid-shader-by-ase.html<br>
+更多應用: https://www.youtube.com/watch?v=lT-6_DNitTw<br>
 <a href="https://gyazo.com/2d30a1881abef1ce0744bba109b8d2d0"><img src="https://i.gyazo.com/2d30a1881abef1ce0744bba109b8d2d0.gif" alt="Image from Gyazo" width="640"/></a>
 <br>
