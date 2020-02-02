@@ -7,3 +7,6 @@
 
 #### UVTranslate: 單純介紹如何使 UV 做移動，使用 ASE 1.5.6 串接
 <br>
+![](http://img.blog.csdn.net/20141103021350640?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcG9lbV9xaWFubW8=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
+<br> <br><br> <br><br>   
