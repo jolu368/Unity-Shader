@@ -6,6 +6,6 @@
 <br><br>
 
 #### UVTranslate: 單純介紹如何使 UV 做移動，使用 ASE 1.5.6 串接
-*文章教學: https://jojolu368.blogspot.com/2019/08/amplifyshader-uv.html
+文章教學: https://jojolu368.blogspot.com/2019/08/amplifyshader-uv.html
 <a href="https://gyazo.com/f14e3d6b15fc48f0f92757992244a2ee"><img src="https://i.gyazo.com/f14e3d6b15fc48f0f92757992244a2ee.gif" alt="Image from Gyazo" width="414"/></a>
 <br>
