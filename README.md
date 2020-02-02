@@ -38,3 +38,7 @@
 文章教學: https://jojolu368.blogspot.com/2020/02/amplifyshader-forcefield-shader.html<br>
 <a href="https://gyazo.com/776f4bc81485218325ce94a2c64c64b8"><img src="https://i.gyazo.com/776f4bc81485218325ce94a2c64c64b8.gif" alt="Image from Gyazo" width="516"/></a>
 <br>
+#### Dissolve: 介紹如何製作溶解的效果，使用 ASE 1.5.6 串接
+文章教學: https://jojolu368.blogspot.com/2019/10/amplifyshader-dissolve-shader.html<br>
+<a href="https://gyazo.com/8df46dc4c15afe222d9a1e94eea69071"><img src="https://i.gyazo.com/8df46dc4c15afe222d9a1e94eea69071.gif" alt="Image from Gyazo" width="652"/></a>
+<br>
