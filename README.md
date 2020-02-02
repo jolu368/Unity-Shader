@@ -6,18 +6,18 @@
 <br><br>
 
 #### UVTranslate: 單純介紹如何使 UV 做移動，使用 ASE 1.5.6 串接
-文章教學: https://jojolu368.blogspot.com/2019/08/amplifyshader-uv.html
+文章教學: https://jojolu368.blogspot.com/2019/08/amplifyshader-uv.html<br>
 <a href="https://gyazo.com/f14e3d6b15fc48f0f92757992244a2ee"><img src="https://i.gyazo.com/f14e3d6b15fc48f0f92757992244a2ee.gif" alt="Image from Gyazo" width="414"/></a>
 <br>
 #### UVScale: 單純介紹如何使 UV 做縮放，使用 ASE 1.5.6 串接
-文章教學: https://jojolu368.blogspot.com/2019/08/amplifyshader-uv_24.html
+文章教學: https://jojolu368.blogspot.com/2019/08/amplifyshader-uv_24.html<br>
 <a href="https://gyazo.com/b215cb40a14ad072f8a39ab807638d4a"><img src="https://i.gyazo.com/b215cb40a14ad072f8a39ab807638d4a.gif" alt="Image from Gyazo" width="396"/></a>
 <br>
 #### RGBSplit: 介紹如何使 RGB 分離，使用 ASE 1.5.6 串接
 文章教學: https://jojolu368.blogspot.com/2019/08/amplifyshader-rgbsplit.html<br>
 <a href="https://gyazo.com/6c2d460139af1054d25ee19de614cac2"><img src="https://i.gyazo.com/6c2d460139af1054d25ee19de614cac2.gif" alt="Image from Gyazo" width="320"/></a>
 <br>
-#### ParticleAlphaBlender: 介紹如何使用粒子系統內的顏色去控制 UV 的移動，使用 ASE 1.5.6 串接
-文章教學: https://jojolu368.blogspot.com/2019/08/amplifyshader-particle-alpha-blended.html
-<a href="https://gyazo.com/3f7e3a731280a552003d523c7a582426"><img src="https://i.gyazo.com/3f7e3a731280a552003d523c7a582426.gif" alt="Image from Gyazo" width="488"/></a>
-<br><br>
+#### UVFlow: 介紹如何使用 UV 的移動 Blend 出流動的效果，使用 ASE 1.5.6 串接
+文章教學: https://jojolu368.blogspot.com/2019/09/amplifyshader-uv-translate-blend.html<br>
+<a href="https://gyazo.com/ca9c8aef91dcf1ac4573384152c65156"><img src="https://i.gyazo.com/ca9c8aef91dcf1ac4573384152c65156.gif" alt="Image from Gyazo" width="450"/></a>
+<br>
