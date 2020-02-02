@@ -30,3 +30,7 @@
 文章教學: https://jojolu368.blogspot.com/2019/09/amplifyshader-uvtwist.html<br>
 <a href="https://gyazo.com/22f873680df669f6b9f454b4b9f1c077"><img src="https://i.gyazo.com/22f873680df669f6b9f454b4b9f1c077.gif" alt="Image from Gyazo" width="914"/></a>
 <br>
+#### UGUI Text: 介紹 UGUI Text 的染色與 UV 移動，使用 ASE 1.5.6 串接
+文章教學: https://jojolu368.blogspot.com/2019/09/amplifyshader-ugui-text.html<br>
+<a href="https://gyazo.com/0414b48ae62f0aa488d3987435e82e96"><img src="https://i.gyazo.com/0414b48ae62f0aa488d3987435e82e96.gif" alt="Image from Gyazo" width="368"/></a>
+<br>
