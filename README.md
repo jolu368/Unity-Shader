@@ -42,3 +42,8 @@
 文章教學: https://jojolu368.blogspot.com/2019/10/amplifyshader-dissolve-shader.html<br>
 <a href="https://gyazo.com/8df46dc4c15afe222d9a1e94eea69071"><img src="https://i.gyazo.com/8df46dc4c15afe222d9a1e94eea69071.gif" alt="Image from Gyazo" width="652"/></a>
 <br>
+#### Halftone: 介紹如何製作溶解的效果，使用 ASE 1.5.6 串接
+文章教學: https://jojolu368.blogspot.com/2019/10/amplifyshader-halftone-shader.html<br>
+<a href="https://gyazo.com/64abf2ee053ae839b29f87b8aea2db7a"><img src="https://i.gyazo.com/64abf2ee053ae839b29f87b8aea2db7a.gif" alt="Image from Gyazo" width="710"/></a>
+<br>
+<br>
