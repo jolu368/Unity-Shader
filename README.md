@@ -26,3 +26,7 @@
 更多應用: https://www.youtube.com/watch?v=lT-6_DNitTw<br>
 <a href="https://gyazo.com/2d30a1881abef1ce0744bba109b8d2d0"><img src="https://i.gyazo.com/2d30a1881abef1ce0744bba109b8d2d0.gif" alt="Image from Gyazo" width="640"/></a>
 <br>
+#### UVTwist: 介紹 UV 的扭曲，使用 ASE 1.5.6 串接
+文章教學: https://jojolu368.blogspot.com/2019/09/amplifyshader-uvtwist.html<br>
+<a href="https://gyazo.com/22f873680df669f6b9f454b4b9f1c077"><img src="https://i.gyazo.com/22f873680df669f6b9f454b4b9f1c077.gif" alt="Image from Gyazo" width="914"/></a>
+<br>
