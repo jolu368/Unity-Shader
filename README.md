@@ -5,5 +5,5 @@
 * 如果是使用 Amplify Shader Editor 串接的，請自行到 Asset store 購買 Plugin
 <br><br>
 
-### Volume 1 凹凸纹理显示+自选边缘颜色和强度Shader
+### UVTranslate: 單純介紹如何使 UV 做移動，使用 ASE 1.5.6 串接
 <br>
