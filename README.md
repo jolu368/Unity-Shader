@@ -34,3 +34,7 @@
 文章教學: https://jojolu368.blogspot.com/2019/09/amplifyshader-ugui-text.html<br>
 <a href="https://gyazo.com/0414b48ae62f0aa488d3987435e82e96"><img src="https://i.gyazo.com/0414b48ae62f0aa488d3987435e82e96.gif" alt="Image from Gyazo" width="368"/></a>
 <br>
+#### ForceField: 介紹如何製作基礎防護照的效果，多個效果疊加，使用 ASE 1.5.6 串接
+文章教學: https://jojolu368.blogspot.com/2020/02/amplifyshader-forcefield-shader.html<br>
+<a href="https://gyazo.com/776f4bc81485218325ce94a2c64c64b8"><img src="https://i.gyazo.com/776f4bc81485218325ce94a2c64c64b8.gif" alt="Image from Gyazo" width="516"/></a>
+<br>
