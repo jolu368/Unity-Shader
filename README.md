@@ -3,6 +3,7 @@
 <br> 
 * 紀錄教學的部落格的網址：https://jojolu368.blogspot.com/
 <br>
-* 備註: 如果是使用 Amplify Shader Editor 串接的，請自行到 Asset store 購買 Plugin
+* 如果是使用 Amplify Shader Editor 串接的，請自行到 Asset store 購買 Plugin
+<br>
 <br>
 ## UV_Translate 簡單介紹如何讓 UV 移動，使用 Amplify Shader Editor 串接
