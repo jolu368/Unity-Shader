@@ -14,7 +14,7 @@
 <a href="https://gyazo.com/b215cb40a14ad072f8a39ab807638d4a"><img src="https://i.gyazo.com/b215cb40a14ad072f8a39ab807638d4a.gif" alt="Image from Gyazo" width="396"/></a>
 <br>
 #### RGBSplit: 介紹如何使 RGB 分離，使用 ASE 1.5.6 串接
-文章教學: https://jojolu368.blogspot.com/2019/08/amplifyshader-rgbsplit.html
+文章教學: https://jojolu368.blogspot.com/2019/08/amplifyshader-rgbsplit.html<br>
 <a href="https://gyazo.com/6c2d460139af1054d25ee19de614cac2"><img src="https://i.gyazo.com/6c2d460139af1054d25ee19de614cac2.gif" alt="Image from Gyazo" width="320"/></a>
 <br>
 #### ParticleAlphaBlender: 介紹如何使用粒子系統內的顏色去控制 UV 的移動，使用 ASE 1.5.6 串接
